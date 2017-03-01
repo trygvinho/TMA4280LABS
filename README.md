@@ -7,3 +7,5 @@
 6.type: make openmpi
 
 7.type: make clean
+
+Have fun
